@@ -1,0 +1,12 @@
+LINBIT
+https://github.com/kermat/linbit-ansible
+REDHAT Instance HA Ansible
+https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/12/html/high_availability_for_compute_instances/deploy
+CLUSTER LABS DevCon
+https://lists.clusterlabs.org/pipermail/users/2017-February/005111.html
+ASCINEMA ONDREJ
+https://asciinema.org/a/188708
+MIT License
+https://github.com/mrlesmithjr/ansible-pacemaker
+Ondrej GITHUB
+https://github.com/OndrejHome/ansible.ha-cluster-pacemaker?files=1
