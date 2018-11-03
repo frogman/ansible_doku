@@ -10,3 +10,5 @@ MIT License
 https://github.com/mrlesmithjr/ansible-pacemaker
 Ondrej GITHUB
 https://github.com/OndrejHome/ansible.ha-cluster-pacemaker?files=1
+!! Cluster Labs Source Code Pacemaker and so on..
+https://github.com/ClusterLabs/resource-agents/blob/master/heartbeat/oralsnr
